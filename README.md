@@ -43,3 +43,5 @@ source /workspace/streamlit_gpt3_trip_scheduler/gpt3/bin/activate
 
 streamlit run main.py
 ```
+
+**App Link**: [Trip_Scheduler](https://ashish-soni08-streamlit-gpt3-trip-scheduler-main-ja4s5q.streamlit.app/)
