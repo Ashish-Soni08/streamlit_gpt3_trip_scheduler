@@ -8,6 +8,13 @@ You can get one by signing up at from [beta.openai.com](https://beta.openai.com/
 
 ## RUN APPLICATION
 
+- Create a .env file after cloning or forking the repository and Specify the OpenAI API key in the file.
+
+OPEN_API_KEY=<Key Here>
+
+Example:
+OPEN_API_KEY=gf-hhdjnajdopsxsamxaxaxasxaxadfguwioajjakskanxhxsax
+
 - create virtual environment
 
 ```bash
